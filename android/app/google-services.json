@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534632247238",
+    "firebase_url": "https://ketaby-73529.firebaseio.com",
+    "project_id": "ketaby-73529",
+    "storage_bucket": "ketaby-73529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534632247238:android:e4039ccf175a6705380cc7",
+        "android_client_info": {
+          "package_name": "com.example.ketaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534632247238-rapo65tpuvshmc3sdhvpeo9lfskuilhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpqUvnSpBn2PKniIBFvsGxKCf7ZxNSu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534632247238-rapo65tpuvshmc3sdhvpeo9lfskuilhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
