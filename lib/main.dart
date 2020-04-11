@@ -88,7 +88,7 @@ class _MyHomePageState extends State<AfterSplash> {
                           focusedBorder: UnderlineInputBorder(
                               borderSide: BorderSide(color: Color(0xff4a65dc)))),
                     ),
-                    SizedBox(height: 20.0),
+                    SizedBox(height: 5.0),
                     TextField(
                       decoration: InputDecoration(
                           labelText: 'PASSWORD',

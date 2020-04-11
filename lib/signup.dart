@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class SignupPage extends StatefulWidget {
 
-  static const String id = "Signup";
+  static const String id = "Sign Up";
 
   @override
   _SignupPageState createState() => _SignupPageState();
@@ -64,7 +64,7 @@ class _SignupPageState extends State<SignupPage> {
                             fontWeight: FontWeight.bold,
                             color: Colors.grey),
                         focusedBorder: UnderlineInputBorder(
-                            borderSide: BorderSide(color: Colors.green))),
+                            borderSide: BorderSide(color: Color(0xff4a65dc)))),
                     obscureText: true,
                   ),
                   SizedBox(height: 10.0),
@@ -83,8 +83,8 @@ class _SignupPageState extends State<SignupPage> {
                       height: 40.0,
                       child: Material(
                         borderRadius: BorderRadius.circular(20.0),
-                        shadowColor: Colors.greenAccent,
-                        color: Colors.green,
+                        shadowColor:Color(0xff4a65dc),
+                        color: Color(0xff4a65dc),
                         elevation: 7.0,
                         child: GestureDetector(
                           onTap: () {},
